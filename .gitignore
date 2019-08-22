@@ -1,0 +1,4 @@
+.idea/
+configfiles/
+geckodriver.log
+venv/
